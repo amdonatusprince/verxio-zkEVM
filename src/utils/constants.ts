@@ -3,10 +3,10 @@ import { AddrMapType, MapType } from './types';
 
 export const registryAddress: AddrMapType = {
   0: '0x0',
-  1001: '0x4838854e5150E4345Fb4Ae837E9FcCa40D51F3Fe'
+  1442: '0x4838854e5150e4345fb4ae837e9fcca40d51f3fe'
   
 }
 
 export const explorer: MapType = {
-  1001: 'baobab.scope.klaytn.com',
+  1442: 'testnet-zkevm.polygonscan.com',
 }
