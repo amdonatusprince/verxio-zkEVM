@@ -1,3 +1,4 @@
+## Verxio zkEVM
 Verxio Protocol is a non-custodial solution that uses stealth addresses to enable users to receive crypto on Polygon zkEVM without revealing the receiver's real address; which serves as their identity on the blockchain.
 
 Verxio is heavily inspired by [Vitalik's recent article on stealth addresses](https://vitalik.eth.limo/general/2023/01/20/stealth.html).
@@ -76,10 +77,15 @@ Verxio Protocol solution leverages these cryptographic methods to create a syste
 
 ## What's next?
 - Currently, Verxio Protocol only supports native coin transfers(MATIC). However, adding support for tokens and NFTs would greatly enhance its utility. We are considering implementing relayer nodes to mint and sell notes as tokens (or NFTs) in exchange for covering user fees on transfers.
+  
 - This approach allows users to maintain their anonymity while using note tokens to request relayers to cover fees and pay for transactions. Competition between relayers could help keep transfer fees reasonable.
-- Making it live on the zkEVM Mainnet 😉
+  
+- Making it live on the zkEVM Mainnet
+  
 - Expanding Verxio Protocol by enabling cross-chain transactions. Additionally, gas optimization in the StealthAddress contract and its interaction with the receiving side can be improved.
+  
 - Obtaining a legal opinion on Verxio Protocol's regulatory compliance would be beneficial. However, since the StealthAddress contract is on the blockchain and the code is available on GitHub, funds will remain accessible even if the website is shut down.
+  
 - Future UX improvements include notifications for funds received on new controlled stealth addresses and a mobile app (although the website is mobile-friendly). The possibilities are endless!
 
 ## Conclusion
