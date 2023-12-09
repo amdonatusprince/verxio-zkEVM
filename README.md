@@ -1,5 +1,5 @@
 ## Verxio zkEVM
-Verxio Protocol is a non-custodial solution that uses stealth addresses to enable users to receive crypto on Polygon zkEVM without revealing the receiver's real address; which serves as their identity on the blockchain.
+Verxio Protocol is a non-custodial solution that uses stealth addresses to enable users to receive crypto assets (Tokens e.g. ETH and NFT etc) on Polygon zkEVM without revealing the receiver's real address; which serves as their identity on the blockchain.
 
 Verxio is heavily inspired by [Vitalik's recent article on stealth addresses](https://vitalik.eth.limo/general/2023/01/20/stealth.html).
 
